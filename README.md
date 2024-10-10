@@ -1,7 +1,7 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi there! I'm Vamsi Krishna Yadav Loya, an Experienced Full Stack Developer with 3+ years of experience in developing cloud-native applications using Python, JavaScript, and Azure services. Proven expertise in designing scalable front-end and back-end solutions, RESTful API development, and Azure cloud integration, including Azure App Services, Azure Functions, and SQL databases. Certified DevOps Engineer professional with experience in Streamlined Deployments, Building Scalable Infrastructure, CI/CD automation, Containerization, Orchestration, and monitoring. 
+Hi there! I'm Vamsi Krishna Yadav Loya, an Experienced Full Stack Developer with 4+ years of experience in developing cloud-native applications using Python, JavaScript, and Azure services. Proven expertise in designing scalable front-end and back-end solutions, RESTful API development, and Azure cloud integration, including Azure App Services, Azure Functions, and SQL databases. Certified DevOps Engineer professional with experience in Streamlined Deployments, Building Scalable Infrastructure, CI/CD automation, Containerization, Orchestration, and monitoring. 
 
 You can find me on: 
 - [![LinkedIn][3.2]][3] [LinkedIn][3]
